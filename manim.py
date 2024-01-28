@@ -1,3 +1,5 @@
+#Spoluautor tomáš tomášidlo
+
 %%manim -qm CircleToSquare
 
 class CircleToSquare(Scene):
